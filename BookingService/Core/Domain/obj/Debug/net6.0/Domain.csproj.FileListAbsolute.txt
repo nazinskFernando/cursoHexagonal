@@ -1,0 +1,12 @@
+C:\Curso\HotelBooking\BookingService\Core\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Curso\HotelBooking\BookingService\Core\Domain\bin\Debug\net6.0\Domain.dll
+C:\Curso\HotelBooking\BookingService\Core\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Curso\HotelBooking\BookingService\Core\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Curso\HotelBooking\BookingService\Core\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\HotelBooking\BookingService\Core\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Curso\HotelBooking\BookingService\Core\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Curso\HotelBooking\BookingService\Core\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Curso\HotelBooking\BookingService\Core\Domain\obj\Debug\net6.0\Domain.dll
+C:\Curso\HotelBooking\BookingService\Core\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Curso\HotelBooking\BookingService\Core\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Curso\HotelBooking\BookingService\Core\Domain\obj\Debug\net6.0\ref\Domain.dll
